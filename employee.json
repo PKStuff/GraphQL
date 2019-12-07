@@ -1,0 +1,35 @@
+[
+    {
+        "model": "webapp.Employee",
+        "pk": "E5542857",
+        "fields":{
+            "Emp_ID": "E5542857",
+            "fname": "Pradip",
+            "lname": "Kothawale",
+            "salary": "23000",
+            "dept": "IOT"
+        }
+    },
+    {
+        "model": "webapp.Employee",
+        "pk": "E5542858",
+        "fields":{
+            "Emp_ID": "E5542858",
+            "fname": "Pradip",
+            "lname": "Khomane",
+            "salary": "450000",
+            "dept": "Java"
+        }
+    },
+    {
+        "model": "webapp.Employee",
+        "pk": "E5542859",
+        "fields":{
+            "Emp_ID": "E5542859",
+            "fname": "Jyoti",
+            "lname": "Raut",
+            "salary": "56000",
+            "dept": "MCA"
+        }
+    }
+]
